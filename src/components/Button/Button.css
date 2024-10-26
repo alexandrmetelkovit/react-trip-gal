@@ -1,0 +1,16 @@
+.projects-button {
+  font-family: "Arimo", sans-serif;
+  display: block;
+  font-size: 40px;
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  color: rgb(47, 37, 37);
+  background-color: rgb(189, 170, 144);
+}
+
+.projects-button:hover {
+  opacity: 0.7;
+}
